@@ -1,0 +1,11 @@
+{
+    "name": "christian-heiko/hey-skeleton",
+    "description": "skeleton for hey",
+    "authors": [
+        {
+            "name": "Christian Heiko Wüthrich",
+            "email": "wuethrich.ch@gmail.com"
+        }
+    ],
+    "require": {}
+}

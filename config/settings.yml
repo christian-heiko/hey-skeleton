@@ -1,0 +1,14 @@
+db:
+  db.options:
+    user:
+    password:
+
+general:
+  debug: true
+
+server:
+  serversPath:
+  configsPath:
+  errorLogPath:
+  devDomainName: dev
+  excludedServers:  []
