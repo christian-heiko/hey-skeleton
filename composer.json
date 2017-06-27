@@ -7,5 +7,7 @@
             "email": "wuethrich.ch@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "christian-heiko/hey": "dev-master"
+    }
 }
